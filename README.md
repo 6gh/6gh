@@ -1,37 +1,26 @@
 # hi
 im 6gh
 
-- who am i? 6gh
-- what do i code? idk just random stuff, mostly discord bots
-- where repositories? private.
-- why? because my code is so bad it will make you cry in real life irl
-- can i see your discord bot at least? sure, here is [a link](https://discord.com/api/oauth2/authorize?client_id=561298512151707699&permissions=536870780919&scope=bot%20applications.commands) to add it, his name is qwertyy (warning, is wip and has bugs!!!!!!!)
-- i has found bug with qwertyy!! where can report? add me on discord 6gh#7369 and give the issue
-- ok thanks bye
+i code mostly random stuff. most of my repos are private due to them being very old and they're irrelevant to what i code now
+
+i have experience with coding discord bots, so most of those projects are countless discord bots. but now i am moving to making small useful programs and tools to help me or others with various tasks. and the bot whose invite link used to be here is sort of abandoned. I am not actively working on Qwertyy as i have lost drive on making discord bots, but whos knows i might make one again in the future
+
+i am starting to like having my repos open to the public because i firmly believe in the power of Open-Source and the community.
+
+please check out my pinned repos for the 2 newest projects i've created (both for Black MIDI due to my history as a blacker (and the fact a lot of my friends are blackers)). 
+
+if you know about the midi format, help me out with understanding it since i want to learn more about it but i cant wrap my head around it at the moment. so i'd appreciate it if you can help me out
+
+the main way to contact me is by Discord at 6gh#7369
+
+anyway thanks for reading!
 
 <!--
 thanks to https://gist.github.com/citrusui/07978f14b11adada364ff901e27c7f61 for showing me how to dropdown lol 
 -->
 
 <details>
-<summary>woah</summary>
+<summary>contacts</summary>
 <br>
 woah
 </details>
-
-<!--
-**6gh/6gh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-^^^^^ GitHub moment
--->
