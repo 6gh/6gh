@@ -1,17 +1,13 @@
 # hi
-im 6gh
+im 6gh (🧱)
 
-i code mostly random stuff. most of my repos are private due to them being very old and they're irrelevant to what i code now
+I am a JavaScript/TypeScript developer, mostly focusing on web development (mostly backend but I do frontend work too). A majority of my repos are privated because they are from old projects that aren't relevant to what I do now.
 
-i have experience with coding discord bots, so most of those projects are countless discord bots. but now i am moving to making small useful programs and tools to help me or others with various tasks. and the bot whose invite link used to be here is sort of abandoned. I am not actively working on Qwertyy as i have lost drive on making discord bots, but whos knows i might make one again in the future
+I have experience with other languages, such as c#, python, go, rust, etc, although I really havent used it enough to do anything huge with it. I've used JavaScript the most and am most comfortable with it, hence why I always use JavaScript by default. After all, "any application that can be written in JavaScript, will eventually be written in JavaScript" - Atwood's law.
 
-the main way to contact me is by Discord at @6gh
+Contact me by Discord: @6gh (say hi or anything you'd like!)
 
-anyway thanks for reading!
-
-<!--
-thanks to https://gist.github.com/citrusui/07978f14b11adada364ff901e27c7f61 for showing me how to dropdown lol 
--->
+Anyway, thanks for reading!
 
 <details>
 <summary>woah</summary>
